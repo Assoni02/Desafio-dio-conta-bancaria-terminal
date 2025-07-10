@@ -1,14 +1,14 @@
-# Desafio plataforma DIO
+# **Desafio plataforma DIO**
 
-### Simulando uma conta bancária através do terminal/console
+### **Simulando uma conta bancária através do terminal/console**
 
-## Introdução
+## **Introdução**
 
-- Desafio do curso Trilha Java Básico da [DIO](https://www.dio.me) ministrado pelo instrutor **Gleyson Sampaio**.
+- Desafio do curso Trilha Java Básico da [DIO](https://www.dio.me) ministrado pelo instrutor [Gleyson Sampaio](https://github.com/glysns).
 
 ---
 
-## Sintaxe - Desafio
+## **Sintaxe - Desafio**
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
@@ -39,3 +39,14 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
  "Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".
  
  Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
+
+
+## Ferramentas utilizadas
+
+- `Java`
+- `IDE IntelliJ`
+
+## Acesse o projeto
+
+Você pode [acessar o código fonte do projeto](https://github.com/Assoni02/Desafio-dio-conta-bancaria-terminal/blob/main/Desafio_dio_conta_bancaria/ContaTerminal.java).
+
